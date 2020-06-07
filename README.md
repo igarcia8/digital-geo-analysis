@@ -29,6 +29,15 @@ The map includes many web map elements such as a house button to go back to the 
 ![Before and after screenshot](img/beforeafter.PNG)
 > Sliding vertical divider to quickly switch between the before and predicted after in the future
 
+## Strengths and Weaknesses
+
+Strengths | Weaknesses
+------------ | -------------
+Longform Infographics | Lack of Map Keys
+Multimedia | No directional arrow or scalebar on maps
+3 Act Narrative | Navigation bar takes up too much of the screen
+> Strengths and Weaknesses Table
+
 The weaknesses of this project include a lack of map keys, and the navigation bar taking a huge presence on the screen. Most maps used in the story do not include a map key which means the reader has to make an assumption about what the thematic layer represents and interpret the meanings as their own. This is a weakness because when displaying a map, readability is very important to convey the meaning across. On the few maps that do include a key, the key is hidden in the bottom left corner with the and the user must hover over it in order to view. The maps also exclude a directional arrow and a scalebar, these two elements are common map elements that are standard in mapmaking. Another weakness of this project is that the navigation bar at the top of the page took too much space on the page. The navigation bar itself was great for navigation but I would suggest shortening the height of the bar so that there can be more information on the page available.
 
 The strengths of this project include its use of vertical direction or longform infographics, multi-media, and three-act narrative. Studies have show that presenting information and data in a vertical manner, rather than the horizontal way or slide show, the reader is able to retain more information. The use of multi-media such as maps, images and charts gave a dynamic visual presentation so that a reader does not have to read as much and can understand in ways other than sentences. The three-act narrative is a structure similar to the classic storytelling of exposition, rising action, climax, falling action and resolution except it is divided into three acts: set-up, conflict and resolution. The story is set up by showing the background of coastal flooding, why and where the flooding occurs. Next, the story shows data to back up their claims in introduce the conflict. The conflict is that coastal flooding is occurring more often in recent years in the past. This can be due to the rise in sea levels because of land-based ice melt, currents, and many other environmental causes. The author uses maps with predictions of the future state of the coastal lines of Norfolk, Virginia to further drive the emergency at hand. The predictions range from 2040 to 2080 to show the rapid increase of the sea levels and what parts of the city will be affected or under water. The final act of the narrative is the resolution. This story ends with a call to action element telling the readers what they can do to help by linking resources to the page. These links include information about rising sea levels, currents, and the NOAA website.
