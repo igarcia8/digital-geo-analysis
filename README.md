@@ -13,7 +13,7 @@ The themes present are:
 
 The internal politics revolves around the government and how they should approach the rising sea levels due to climate change. Disasters, environment, and science are the reasons why this topic is important. The rising sea levels and major storms are the reasons why coastal lines suffer from flooding. Economics is also a present theme that should not be overlooked because the state’s economy will suffer when the flood comes because of property loss and therefore is important so start looking at this issue now.
 
-![system architecture diagram](img/systemarch.PNG)
+![system architecture diagram](img/systemarch.PNG =300x)
 > System architecture diagram
 
 This is the general system architecture for web mapping shown in the diagram. The external system is the web client which is what the user can see such as the visuals and content of the page. The external communicates with the internal internet which includes the webserver which processes network requests. The server then requests from the database to access the data, which is pulled from the NOAA’s database, for the information and maps. The data flowed between the client and the server are tile layers, json files and images. The project uses functions from ArcGIS such as widgets and views.
